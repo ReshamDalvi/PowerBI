@@ -18,7 +18,7 @@ The project uses a sample makeup and cosmetics supply chain dataset covering pro
 | Availability                     | Indicates the availability status of products                                   |
 | Products Sold                    | Number of units sold                                                            |
 | Revenue Generated                | Revenue generated from product sales                                            | 
-| Customer demographics            | Provides information about customer characteristics, including gender           |
+| Customer demographics            | Provides information about customer gender                                      |
 | Stock Levels                     | Quantity of product currently in stock                                          |
 | Operational Lead Time (Days)     | Duration recorded for the first operational lead-time measure, recorded in days |
 | Order Quantities                 | Quantity of products ordered                                                    |
