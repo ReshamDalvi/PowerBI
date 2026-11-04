@@ -2,8 +2,7 @@
 
 **Project Objective**
 
-The objective of this project is to develop an interactive Power BI dashboard that analyzes supply chain operations, supplier performance, manufacturing efficiency, inventory levels, and logistics costs. The dashboard helps identify cost patterns, monitor product quality, evaluate shipping performance, and generate actionable insights to support data-driven business decisions.
-
+The objective of this project is to develop an interactive Power BI dashboard that analyzes supply chain operations, supplier performance, manufacturing efficiency, inventory levels, and logistics costs.
 
 ## Dataset Description
 
