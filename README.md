@@ -36,3 +36,108 @@ The project uses a sample makeup and cosmetics supply chain dataset covering pro
 | Transportation Modes             | Method used to transport products                                               |
 | Routes                           | Route label associated with product transportation                              |
 | Transportation Costs             | Costs associated with transportation                                            |
+
+## Project Overview
+**The Power BI report will help supply chain teams understand:**
+- Overall revenue and product sales performance
+- Production volumes and inventory levels
+- Supplier contribution and operational performance
+- Manufacturing costs and production efficiency
+- Manufacturing and operational lead times
+- Product quality through inspection results and defect rates
+- Shipping costs and transportation expenses
+- Shipping performance across carriers and transportation modes
+- Location-wise revenue and logistics performance
+- Cost variations across suppliers, products, and transportation routes
+
+
+# Page 1 — Supply Chain Overview
+
+**Cards**
+- Total Revenue
+- Total Products Sold
+- Total Production Volume
+- Total Inventory
+- Average Defect Rate
+- Total Suppliers
+
+**Visuals**
+- Quality Inspection Results - Donut Chart
+- Revenue By Product Type - Pie Chart
+- Inventory Distribution By Product Type
+- Products Sold By Supplier - Clustered Column Chart
+- Manufacturing Cost Vs Revenue By Product Type - Scatter Chart
+
+**Slicers**
+- Supplier Name
+- Product Type
+
+**Purpose:** Understand the overall supply chain performance through revenue, sales, production, inventory, and supplier distribution.
+
+# Page 2 — Supplier & Manufacturing Analysis
+
+**Cards**
+- Total Manufacturing Cost
+- Average Manufacturing Lead Time
+- Total Production Volume
+- Average Defect Rate
+
+**Visuals**
+- Manufacturing Cost vs Production Volume — Scatter Chart
+- Average Operational Lead Time by Supplier — Clustered Bar Chart
+- Manufacturing Lead Time by Supplier — Clustered Bar Chart
+- Manufacturing Cost Breakdown - Waterfall Chart
+- Supplier Quality Comparison — Matrix
+- Production Volume By Supplier - Pie Chart
+
+**Slicers**
+- Location
+- Supplier Name
+- Inspection Results
+
+**Drill-Through Analysis**
+- Location & Supplier - Wise Total Revenue
+- Supplier & Product Type - Wise Production Volume
+- Location & Product Type - Wise Manufacturing Cost
+
+**Purpose:** Evaluate supplier performance, manufacturing efficiency, production costs, lead times, and product quality.
+
+# Page 3 — Logistics & Transportation Analysis
+
+**Cards**
+- Total Shipping Cost
+- Total Transportation Cost
+- Average Shipping Cost
+- Average Shipping Time
+
+**Visuals**
+- Shipping Cost by Transportation Mode — Clustered Column Chart
+- Revenue Analysis by Location & Shipping Carrier — Clustered Column Chart
+- Shipping Cost Distribution by Route — Donut Chart
+- Average Shipping Time by Shipping Carrier — Pie Chart
+
+**Slicers**
+- Location
+- Routes
+- Shipping Carriers
+- Transportation Mode
+
+**Interactive Features**
+- Drill-Down Analysis — Location to Shipping Carrier
+- Bookmarks — Switch between Shipping Cost and Shipping Time By Transportation Mode
+
+**Purpose:** Analyze logistics expenses, shipping performance, carrier distribution, and transportation efficiency across locations and routes.
+
+# Tools & Technologies
+- Power BI — Dashboard development and data visualization
+- Power Query — Data cleaning and transformation
+- DAX — Measures, KPIs, and analytical calculations
+
+#  Key Power BI Features
+- Interactive Slicers and Filters
+- Drill-Down
+- Drill-Through
+- Bookmarks
+- Tooltips
+- KPI Cards
+- Data Modeling and Visualizations
