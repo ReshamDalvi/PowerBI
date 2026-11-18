@@ -132,7 +132,7 @@ The project uses a sample makeup and cosmetics supply chain dataset covering pro
 
 **Purpose:** Analyze logistics expenses, shipping performance, carrier distribution, and transportation efficiency across locations and routes.
 
-![Supply Chain & Operations Analytics](
+![Supply Chain & Operations Analytics](https://github.com/ReshamDalvi/PowerBI/blob/main/Images/Logistics%20%26%20Transportation.PNG)
 
 # Tools & Technologies
 - Power BI — Dashboard development and data visualization
