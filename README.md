@@ -104,6 +104,8 @@ The project uses a sample makeup and cosmetics supply chain dataset covering pro
 
 **Purpose:** Evaluate supplier performance, manufacturing efficiency, production costs, lead times, and product quality.
 
+![Supply Chain & Operations Analytics](
+
 # Page 3 — Logistics & Transportation Analysis
 
 **Cards**
