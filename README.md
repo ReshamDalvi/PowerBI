@@ -104,7 +104,7 @@ The project uses a sample makeup and cosmetics supply chain dataset covering pro
 
 **Purpose:** Evaluate supplier performance, manufacturing efficiency, production costs, lead times, and product quality.
 
-![Supply Chain & Operations Analytics](
+![Supply Chain & Operations Analytics](https://github.com/ReshamDalvi/PowerBI/blob/main/Images/Supply%20%26%20Manufacturing.PNG)
 
 # Page 3 — Logistics & Transportation Analysis
 
@@ -131,6 +131,8 @@ The project uses a sample makeup and cosmetics supply chain dataset covering pro
 - Bookmarks — Switch between Shipping Cost and Shipping Time By Transportation Mode
 
 **Purpose:** Analyze logistics expenses, shipping performance, carrier distribution, and transportation efficiency across locations and routes.
+
+![Supply Chain & Operations Analytics](
 
 # Tools & Technologies
 - Power BI — Dashboard development and data visualization
