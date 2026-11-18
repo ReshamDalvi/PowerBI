@@ -74,7 +74,7 @@ The project uses a sample makeup and cosmetics supply chain dataset covering pro
 
 **Purpose:** Understand the overall supply chain performance through revenue, sales, production, inventory, and supplier distribution.
 
-https://github.com/ReshamDalvi/PowerBI/blob/main/Images/Overview.PNG
+![Supply Chain & Operations Analytics](https://github.com/ReshamDalvi/PowerBI/blob/main/Images/Overview.PNG)
 
 # Page 2 — Supplier & Manufacturing Analysis
 
